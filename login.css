@@ -109,6 +109,8 @@ form input{
  
 form button:hover{
     background: rgb(9, 52, 6);
+    color: white;
+    border: 3px solid white;
 }
 
 
